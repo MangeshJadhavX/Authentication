@@ -1,3 +1,5 @@
+//we created new token (secrete) is important
+
 const jwt = require("jsonwebtoken");
 
 const user = {

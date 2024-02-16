@@ -1,4 +1,5 @@
 //we created new token (secrete) is important
+//first step is import a jwt library in your code
 
 const jwt = require("jsonwebtoken");
 
